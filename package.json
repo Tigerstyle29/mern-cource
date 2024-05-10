@@ -1,0 +1,25 @@
+{
+  "name": "mern-cource",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Tigran Vartanyan <tvartanyan29@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.11",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.0"
+  }
+}
