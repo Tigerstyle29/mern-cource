@@ -1,1 +1,1 @@
-# mern-cource
+# mern-course
